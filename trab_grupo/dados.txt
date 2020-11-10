@@ -1,0 +1,371 @@
+    L = 25
+    N = [0,10]
+
+1°
+tempo em c: 0.000205
+tempo em nasm: 0.002608
+tempo em gas: 0.007704
+
+2°
+tempo em c: 0.000181
+tempo em nasm: 0.002071
+tempo em gas: 0.006751
+
+3°
+tempo em c: 0.000229
+tempo em nasm: 0.001701
+tempo em gas: 0.007250
+
+4°
+tempo em c: 0.000232
+tempo em nasm: 0.001922
+tempo em gas: 0.008129
+
+5°
+tempo em c: 0.000206
+tempo em nasm: 0.002923
+tempo em gas: 0.007233
+
+6°
+tempo em c: 0.000215
+tempo em nasm: 0.002424
+tempo em gas: 0.006516
+
+7°
+tempo em c: 0.000217
+tempo em nasm: 0.001541
+tempo em gas: 0.004223
+
+8°
+tempo em c: 0.000255
+tempo em nasm: 0.001853
+tempo em gas: 0.004389
+
+9°
+tempo em c: 0.000237
+tempo em nasm: 0.002151
+tempo em gas: 0.007773
+
+10°
+tempo em c: 0.000185
+tempo em nasm: 0.002680
+tempo em gas: 0.006197
+____________________________________________________________________________________________________________________
+    L = 50
+    N = [0,10]
+
+1
+tempo em c: 0.001069
+tempo em nasm: 0.006391
+tempo em gas: 0.048427
+
+2
+tempo em c: 0.001226
+tempo em nasm: 0.006742
+tempo em gas: 0.045663
+
+3
+tempo em c: 0.000801
+tempo em nasm: 0.006626
+tempo em gas: 0.054710
+
+4
+tempo em c: 0.000859
+tempo em nasm: 0.006580
+tempo em gas: 0.052072
+
+5
+tempo em c: 0.001165
+tempo em nasm: 0.007541
+tempo em gas: 0.049680
+
+6
+tempo em c: 0.001644
+tempo em nasm: 0.006488
+tempo em gas: 0.052670
+
+7
+tempo em c: 0.001553
+tempo em nasm: 0.007991
+tempo em gas: 0.043892
+
+8
+tempo em c: 0.001251
+tempo em nasm: 0.007044
+tempo em gas: 0.050910
+
+9
+tempo em c: 0.001613
+tempo em nasm: 0.006440
+tempo em gas: 0.054287
+
+10
+tempo em c: 0.000917
+tempo em nasm: 0.005566
+tempo em gas: 0.051837
+____________________________________________________________________________________________________________________
+
+L=100
+
+1
+tempo em c: 0.010230
+tempo em nasm: 0.020480
+tempo em gas: 0.310377
+
+2
+tempo em c: 0.010071
+tempo em nasm: 0.026063
+tempo em gas: 0.286683
+
+3
+tempo em c: 0.012114
+tempo em nasm: 0.020918
+tempo em gas: 0.290707
+
+4
+tempo em c: 0.009253
+tempo em nasm: 0.019475
+tempo em gas: 0.293020
+
+5
+tempo em c: 0.010622
+tempo em nasm: 0.019314
+tempo em gas: 0.288946
+
+6
+tempo em c: 0.011460
+tempo em nasm: 0.019163
+tempo em gas: 0.315458
+
+7
+tempo em c: 0.009733
+tempo em nasm: 0.022490
+tempo em gas: 0.272655
+
+8
+tempo em c: 0.010760
+tempo em nasm: 0.018597
+tempo em gas: 0.301767
+
+9
+tempo em c: 0.010665
+tempo em nasm: 0.019938
+tempo em gas: 0.284689
+
+10
+tempo em c: 0.012079
+tempo em nasm: 0.020705
+tempo em gas: 0.311642
+____________________________________________________________________________________________________________________
+
+L = 300
+
+1
+tempo em c: 0.178873
+tempo em nasm: 0.337472
+tempo em gas: 8.525798
+
+2
+tempo em c: 0.194145
+tempo em nasm: 0.362800
+tempo em gas: 6.993504
+
+3
+tempo em c: 0.176868
+tempo em nasm: 0.351257
+tempo em gas: 6.957754
+
+4
+tempo em c: 0.184557
+tempo em nasm: 0.366618
+tempo em gas: 8.014566
+
+5
+tempo em c: 0.178928
+tempo em nasm: 0.347648
+tempo em gas: 7.015402
+ 
+6
+tempo em c: 0.180590
+tempo em nasm: 0.353392
+tempo em gas: 7.699787
+
+7
+tempo em c: 0.178245
+tempo em nasm: 0.362791
+tempo em gas: 7.114371
+
+8
+tempo em c: 0.188313
+tempo em nasm: 0.354669
+tempo em gas: 7.083430
+
+9
+tempo em c: 0.176876
+tempo em nasm: 0.334752
+tempo em gas: 7.850509
+
+10
+tempo em c: 0.179448
+tempo em nasm: 0.392644
+tempo em gas: 7.370406
+____________________________________________________________________________________________________________________
+
+L = 500
+
+1
+tempo em c: 0.884030
+tempo em nasm: 1.963751
+tempo em gas: 34.244228
+
+2
+tempo em c: 0.868570
+tempo em nasm: 1.583461
+tempo em gas: 33.790596
+
+3
+tempo em c: 0.878444
+tempo em nasm: 1.594657
+tempo em gas: 32.313551
+
+4
+tempo em c: 0.881454
+tempo em nasm: 1.592156
+tempo em gas: 32.305263
+
+5
+tempo em c: 0.886790
+tempo em nasm: 1.588226
+tempo em gas: 32.334951
+
+6
+tempo em c: 0.954494
+tempo em nasm: 1.785704
+tempo em gas: 32.061037
+
+7
+tempo em c: 0.882200
+tempo em nasm: 1.583555
+tempo em gas: 32.116766
+
+8
+tempo em c: 0.987249
+tempo em nasm: 1.630638
+tempo em gas: 32.266435
+
+9
+tempo em c: 0.895276
+tempo em nasm: 1.561344
+tempo em gas: 32.744075
+
+10
+tempo em c: 0.883545
+tempo em nasm: 1.605265
+tempo em gas: 32.469660
+____________________________________________________________________________________________________________________
+
+L = 800
+
+1
+tempo em c: 5.051018
+tempo em nasm: 10.025208
+tempo em gas: 146.996202
+
+2
+tempo em c: 4.842690
+tempo em nasm: 7.182933
+tempo em gas: 171.601728
+
+3
+tempo em c: 5.250913
+tempo em nasm: 7.163392
+tempo em gas: 139.720686
+
+4
+tempo em c: 5.186064
+tempo em nasm: 7.030047
+tempo em gas: 140.098777
+
+5
+tempo em c: 4.819796
+tempo em nasm: 7.021427
+tempo em gas: 140.196770
+
+6
+tempo em c: 5.033659
+tempo em nasm: 7.618995
+tempo em gas: 139.270884
+
+7
+tempo em c: 4.618982
+tempo em nasm: 7.871218
+tempo em gas: 185.258510
+
+8
+tempo em c: 4.963631
+tempo em nasm: 11.712109
+tempo em gas: 179.415320
+
+9
+tempo em c: 4.718346
+tempo em nasm: 7.290499
+tempo em gas: 176.141741
+
+10
+tempo em c: 5.951908
+tempo em nasm: 7.650364
+tempo em gas: 169.668855
+____________________________________________________________________________________________________________________
+
+L = 1000
+
+1
+tempo em c: 11.686711
+tempo em nasm: 17.826170
+tempo em gas: 334.083597
+
+2
+tempo em c: 11.536283
+tempo em nasm: 17.164707
+tempo em gas: 281.365334
+
+3
+tempo em c: 10.719022
+tempo em nasm: 15.853493
+tempo em gas: 338.111406
+
+4
+tempo em c: 12.958781
+tempo em nasm: 16.115695
+tempo em gas: 341.216848
+
+5
+tempo em c: 10.571873
+tempo em nasm: 14.434528
+tempo em gas: 262.657438
+
+6
+tempo em c: 11.669669
+tempo em nasm: 17.736632
+tempo em gas: 374.947635
+
+7
+tempo em c: 14.716375
+tempo em nasm: 20.045012
+tempo em gas: 405.536340
+
+8
+tempo em c: 14.698855
+tempo em nasm: 21.242944
+tempo em gas: 406.966146
+
+9
+tempo em c: 13.994422
+tempo em nasm: 21.418217
+tempo em gas: 418.837067
+
+10
+tempo em c: 16.054182
+tempo em nasm: 20.205671
+tempo em gas: 429.042602
+____________________________________________________________________________________________________________________
